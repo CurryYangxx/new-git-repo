@@ -1,4 +1,5 @@
 type: collection.insomnia.rest/5.0
+schema_version: "5.1"
 name: collection for new git repo
 meta:
   id: wrk_43e52a6aeee841ac8d7612e46de1ec43
@@ -6,12 +7,12 @@ meta:
   modified: 1760583247895
   description: ""
 collection:
-  - url: ""
+  - url: "11"
     name: My first request
     meta:
       id: req_c9e4e8fc0eea4b769ccb316df6801668
       created: 1760583233109
-      modified: 1760583233109
+      modified: 1767604298104
       isPrivate: false
       description: ""
       sortKey: -1760583233109
