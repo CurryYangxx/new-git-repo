@@ -33,7 +33,7 @@ collection:
     meta:
       id: socketio-req_9ef4f67ce7b241be9c51ae9467fd0c3d
       created: 1773643171887
-      modified: 1773643176892
+      modified: 1773643458163
       description: ""
       sortKey: -1773643171887
     settings:
@@ -41,6 +41,7 @@ collection:
       cookies:
         store: true
         send: true
+      path: /custom
     headers:
       - name: User-Agent
         value: insomnia/12.4.0
